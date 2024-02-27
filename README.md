@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 We are slsosec
+
+We're committed to raising standards! 
 
 <!--
 **slsosec/slsosec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
